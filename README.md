@@ -1,5 +1,7 @@
 # wp-security-checklist
-A comprehensive WordPress security checklist organized by priority
+A comprehensive WordPress security checklist organized by priority.
+
+NOTE: Security is not a one-time task but an ongoing process. Test any changes on a staging site first, and always maintain current backups before making security modifications.
 
 ## 🔴 Critical Priority
 
@@ -172,5 +174,5 @@ define('EMPTY_TRASH_DAYS', 7); // 7 days
 define('WP_DEBUG', false);
 ```
 
-NOTE: Security is not a one-time task but an ongoing process. Test any changes on a staging site first, and always maintain current backups before making security modifications.
+
 
